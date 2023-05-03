@@ -1,4 +1,4 @@
-<h1 align="center">YOLOv8 NATIVE TRACKING</h1>
+<h1 align="center">YOLOv8 REALTIME TRACKING</h1>
 
 ## 💻 Install
 
